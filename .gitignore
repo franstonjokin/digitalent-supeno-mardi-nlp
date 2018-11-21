@@ -1,5 +1,5 @@
 # Python
-.ipynb_checkpoints/
+nlp-nltk/.ipynb_checkpoints/
 *.pyc
 __pycache__
 *.egg-info
